@@ -1,0 +1,1 @@
+# lenovo-e530-dsdt
